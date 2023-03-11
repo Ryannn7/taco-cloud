@@ -10,6 +10,9 @@
     <modules>
         <module>asyQueue</module>
         <module>ch_02</module>
+        <module>ch_03</module>
+        <module>ch_03-2</module>
+        <module>ch_04</module>
     </modules>
     <packaging>pom</packaging>
     <name>taco-cloud</name>
