@@ -10,9 +10,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch_03-2" />
-        <module name="ch_03" />
+        <module name="ch_100" />
+        <module name="tacocloud-restclient" />
+        <module name="tacocloud-rabbitmq" />
+        <module name="tacocloud-domain" />
+        <module name="tacocloud-data" />
         <module name="asyQueue" />
+        <module name="ch_03-2" />
+        <module name="tacocloud-ui" />
+        <module name="tacocloud-security" />
+        <module name="tacocloud-message-jms" />
+        <module name="tacocloud-api" />
+        <module name="tacocloud-ws" />
+        <module name="tacocloud-web" />
+        <module name="ch_03" />
         <module name="ch_02" />
       </profile>
     </annotationProcessing>
@@ -20,6 +31,7 @@
       <module name="ch_0302" target="1.8" />
       <module name="taco-cloud-assemble" target="8" />
       <module name="taco-cloud-framework" target="8" />
+      <module name="tacocloud-api1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,9 +40,20 @@
       <module name="ch_02" options="-parameters" />
       <module name="ch_03" options="-parameters" />
       <module name="ch_03-2" options="-parameters" />
+      <module name="ch_06" options="" />
       <module name="taco-cloud" options="" />
       <module name="taco-cloud-assemble" options="-parameters" />
       <module name="taco-cloud-framework" options="-parameters" />
+      <module name="tacocloud-api" options="-parameters" />
+      <module name="tacocloud-data" options="-parameters" />
+      <module name="tacocloud-domain" options="-parameters" />
+      <module name="tacocloud-message-jms" options="-parameters" />
+      <module name="tacocloud-rabbitmq" options="-parameters" />
+      <module name="tacocloud-restclient" options="-parameters" />
+      <module name="tacocloud-security" options="-parameters" />
+      <module name="tacocloud-ui" options="-parameters" />
+      <module name="tacocloud-web" options="-parameters" />
+      <module name="tacocloud-ws" options="-parameters" />
     </option>
   </component>
 </project>

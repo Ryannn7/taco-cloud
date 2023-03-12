@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/../../../../Software/maven/maven-3.9.0/repository/org/springframework/boot/spring-boot-starter-parent/2.2.5.RELEASE/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/asyQueue/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/asyQueue/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch_02/src/main/java" charset="UTF-8" />
@@ -13,7 +12,30 @@
     <file url="file://$PROJECT_DIR$/ch_0302/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch_04/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch_04/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-api1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-api1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-message-jms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-restclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-ui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_06/tacocloud-ws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_100/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch_100/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../Software/maven/maven-3.9.0/repository/org/springframework/boot/spring-boot-starter-parent/2.2.5.RELEASE/src/main/resources" charset="UTF-8" />
   </component>
 </project>

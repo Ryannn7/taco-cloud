@@ -13,6 +13,15 @@
         <module>ch_03</module>
         <module>ch_03-2</module>
         <module>ch_04</module>
+        <module>ch_06</module>
+
+        <module>ch_06/tacocloud-api</module>
+        <module>ch_06/tacocloud-data</module>
+        <module>ch_06/tacocloud-domain</module>
+        <module>ch_06/tacocloud-security</module>
+        <module>ch_06/tacocloud-ui</module>
+        <module>ch_06/tacocloud-web</module>
+        <module>ch_100</module>
     </modules>
     <packaging>pom</packaging>
     <name>taco-cloud</name>

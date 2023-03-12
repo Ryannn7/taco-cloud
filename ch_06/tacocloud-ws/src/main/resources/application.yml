@@ -1,0 +1,60 @@
+security:
+  user:
+    name: buzz
+    password: infinity
+
+taco:
+  orders:
+    pageSize: 10
+  discount:
+    codes:
+      abcdef: 10
+      
+#logging:
+#  level:
+#    org.springframework.data.rest: debug
+
+spring:
+  data:
+    rest:
+      base-path: /api
+  profiles: prod
+  datasource:
+    url: jdbc:mysql://localhost/tacocloud
+    username: root
+    password: root
+
+# activemq链接使用；集成activity-MQ使用
+# jms:
+#   template:
+#     default-destination: tacocloud.order.queue
+# artemis:
+#   host: localhost
+#   port: 61616
+#   user: admin
+#   password: admin
+#   embedded:
+#     enabled: false
+
+  # rabbitMq的配置
+  rabbitmq:
+    host: rabbit.tacocloud.com
+    port: 5673
+    username: tacoweb
+    password: l3tm31n
+    template:
+      exchange: tacocloud.orders
+      routing-key: kitchens.central
+
+
+
+logging:
+  level:
+    tacos: debug
+
+
+
+
+    
+
+    
