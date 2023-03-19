@@ -1,0 +1,9 @@
+tacos/messaging/RabbitMqController.class
+tacos/messaging/MessagingConfig.class
+tacos/messaging/OrderMessagingService.class
+tacos/messaging/RabbitOrderMessagingService$1.class
+tacos/messaging/RabbitOrderReceiver.class
+tacos/messaging/KitchenUI.class
+sia/Main.class
+tacos/messaging/RabbitOrderMessagingService.class
+tacos/messaging/OrderListener.class

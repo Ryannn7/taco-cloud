@@ -1,0 +1,25 @@
+
+
+spring:
+  # rabbitMq的配置
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    template:
+      exchange: tacocloud.orders
+      routing-key: kitchens.central
+
+
+
+logging:
+  level:
+    tacos: debug
+
+
+
+
+    
+
+    

@@ -1,0 +1,17 @@
+tacos/TacoCloudApplication.class
+tacos/Ingredient.class
+tacos/data/JdbcIngredientRepository.class
+tacos/data/OrderRepository.class
+tacos/data/TacoRepository.class
+tacos/web/DesignTacoController.class
+tacos/web/IngredientByIdConverter.class
+tacos/Taco.class
+tacos/data/RawJdbcIngredientRepository.class
+tacos/web/OrderController.class
+tacos/Order.class
+tacos/web/WebConfig.class
+tacos/Ingredient$Type.class
+tacos/data/JdbcTacoRepository.class
+tacos/data/IngredientRepository.class
+tacos/myTest/chapter01Test.class
+tacos/data/JdbcOrderRepository.class

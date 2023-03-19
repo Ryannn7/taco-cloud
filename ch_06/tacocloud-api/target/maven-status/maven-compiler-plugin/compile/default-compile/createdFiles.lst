@@ -1,0 +1,12 @@
+tacos/web/api/IngredientResource.class
+org/example/Main.class
+tacos/web/api/IngredientController.class
+tacos/web/api/DesignTacoController.class
+tacos/web/api/IngredientResourceAssembler.class
+tacos/web/api/TacoResourceAssembler.class
+tacos/web/api/OrderApiController.class
+tacos/web/api/TacoResources.class
+tacos/web/api/RecentTacosController.class
+tacos/web/api/TacoResource.class
+tacos/web/api/SpringDataRestConfiguration.class
+tacos/web/api/SpringDataRestConfiguration$1.class

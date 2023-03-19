@@ -1,0 +1,5 @@
+tacos/security/RegistrationController.class
+org/example/Main.class
+tacos/security/SecurityConfig.class
+tacos/security/UserRepositoryUserDetailsService.class
+tacos/security/RegistrationForm.class

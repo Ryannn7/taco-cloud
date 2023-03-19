@@ -21,6 +21,13 @@
     </properties>
 
     <dependencies>
+        <!--rabbitMq消息队列-->
+        <dependency>
+            <groupId>sia</groupId>
+            <artifactId>tacocloud-rabbitmq</artifactId>
+            <version>${tacocloud.version}</version>
+        </dependency>
+
         <!-- TacoCloud dependencies -->
         <dependency>
             <groupId>sia</groupId>

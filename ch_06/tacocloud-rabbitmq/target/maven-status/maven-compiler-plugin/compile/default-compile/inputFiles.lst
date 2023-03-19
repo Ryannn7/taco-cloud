@@ -1,0 +1,8 @@
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/tacos/messaging/RabbitMqController.java
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/sia/Main.java
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/tacos/messaging/RabbitOrderReceiver.java
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/tacos/messaging/RabbitOrderMessagingService.java
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/tacos/messaging/KitchenUI.java
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/tacos/messaging/OrderListener.java
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/tacos/messaging/MessagingConfig.java
+/Users/liuzongshuai/Documents/workspace/02_MyCode/taco/taco-cloud/ch_06/tacocloud-rabbitmq/src/main/java/tacos/messaging/OrderMessagingService.java
