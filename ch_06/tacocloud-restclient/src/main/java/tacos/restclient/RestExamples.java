@@ -20,9 +20,9 @@ import java.util.List;
 @Slf4j
 public class RestExamples {
 
-  public static void main(String[] args) {
+  /*public static void main(String[] args) {
     SpringApplication.run(RestExamples.class, args);
-  }
+  }*/
 
   @Bean
   public RestTemplate restTemplate() {

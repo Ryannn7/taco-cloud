@@ -14,12 +14,12 @@ import tacos.Order;
 
 @Component
 public class OrderListener {
-    private KitchenUI ui;
+  /*  private KitchenUI ui;
     @Autowired
     public OrderListener(KitchenUI ui) {
         this.ui = ui;
-    }
-    @RabbitListener(queues = "tacocloud.order.queue")
+    }*/
+    @RabbitListener(queues = "tacocloud.order.queue") //监听具体队列中的数据
     public void receiveOrder(Order order) {
         System.out.printf("接收到Order信息："+order);
     }

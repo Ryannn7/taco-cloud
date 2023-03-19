@@ -10,6 +10,9 @@
     </parent>
 
     <artifactId>tacocloud-rabbitmq</artifactId>
+    <packaging>jar</packaging>
+    <name>tacocloud-rabbitmq</name>
+    <description>Taco Cloud rabbitmq</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
